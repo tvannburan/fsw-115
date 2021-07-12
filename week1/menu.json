@@ -1,0 +1,56 @@
+{
+    "appetizers": [
+        {"name": "Cheeseburger",
+        "ingredients": ["cheese, buns, pickles, tomatoes, ketchup"],
+        "description": ["Thads special cheeseburger that will leave your mouth watering"]
+    }
+],
+
+    "cold sandwhich": [
+     {"name": "Sub Sub",
+    "ingredients": ["bread, ham, lettuce, tomatoes"],
+    "description": ["Nice coool sub to get you through"]
+},
+
+{"name": "Cold boy",
+    "ingredients": ["bread, turkey, ceasar dressing, tomatoes, jalapenoes, bacon"],
+    "description": ["This aint for everyone"]
+}
+],
+
+"hot sandwhich": [
+    {"name": "Hot boy",
+   "ingredients": ["bread, Smoked ham, Provologne, tomatoes, Chicken, Ghost peppers,"],
+   "description": ["Try at your own risk"]
+},
+
+{"name": "Panini",
+    "ingredients": ["bread, ham, bacon, turkey, tomatoes, chesse, mayo sauce"],
+    "description": ["Just like at Panera"]
+ }
+],
+
+"desserts": [
+    {"name": "Cheesecake",
+   "ingredients": ["cheese, cake"],
+   "description": ["I hope you read the ingredients "]
+},
+
+{"name": "brownie",
+    "ingredients": ["flour, milk, cocoa, eggs, butter"],
+    "description": ["Taste just like your grandma's"]
+ }
+],
+
+"drinks": [
+    {"name": "lemonade",
+   "ingredients": ["lemons, water, sugar"],
+   "description": ["Southern lemonade not that watered down northern stuff"]
+},
+
+{"name": "Dr.Pepper",
+    "ingredients": ["water, 23 flavors, lots of sugar, maybe some carcinogens"],
+    "description": ["Do not drink this to fast or to often"]
+ }
+]
+}
